@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hackemon blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://hackemon-fr.github.io/posts/</link>
     <description>Recent content in Posts on Hackemon blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 08:18:59 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hackemon-fr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://hackemon-fr.github.io/posts/first/</link>
       <pubDate>Mon, 17 Mar 2025 08:18:59 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://hackemon-fr.github.io/posts/first/</guid>
       <description>THIS IS THE FIRST POST</description>
     </item>
   </channel>
