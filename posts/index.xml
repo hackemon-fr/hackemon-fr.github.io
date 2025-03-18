@@ -15,5 +15,12 @@
       <guid>https://hackemon-fr.github.io/posts/first/</guid>
       <description>THIS IS THE FIRST POST</description>
     </item>
+    <item>
+      <title>Second</title>
+      <link>https://hackemon-fr.github.io/posts/second/</link>
+      <pubDate>Mon, 17 Mar 2025 08:18:59 +0000</pubDate>
+      <guid>https://hackemon-fr.github.io/posts/second/</guid>
+      <description>THIS IS THE SECOND POST</description>
+    </item>
   </channel>
 </rss>
